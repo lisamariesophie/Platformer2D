@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 7970e5588bd692e4a8ce99afdbd3b539
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9073887726785263034
+    second: GameAsset-Scientist_0
+  - first:
+      213: -737690906500472242
+    second: GameAsset-Scientist_1
+  - first:
+      213: 9121501471052792867
+    second: GameAsset-Scientist_2
+  - first:
+      213: 1418132467134233919
+    second: GameAsset-Scientist_3
+  - first:
+      213: -3763325518363740762
+    second: GameAsset-Scientist_4
+  - first:
+      213: -5525711043480296832
+    second: GameAsset-Scientist_5
+  - first:
+      213: 5387985304987570366
+    second: GameAsset-Scientist_6
+  - first:
+      213: 225729511233283263
+    second: GameAsset-Scientist_7
+  - first:
+      213: 3049779450743817187
+    second: GameAsset-Scientist_8
+  - first:
+      213: 3079312698075306398
+    second: GameAsset-Scientist_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameAsset-Scientist_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 416
+        width: 955
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a00312033131280800000000000000
+      internalID: -9073887726785263034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameAsset-Scientist_1
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 660
+        width: 152
+        height: 118
+      alignment: 9
+      pivot: {x: 0.8464147, y: 0.79748636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42e00c670233c5f0800000000000000
+      internalID: -737690906500472242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameAsset-Scientist_2
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 664
+        width: 152
+        height: 116
+      alignment: 9
+      pivot: {x: 0.16408098, y: 0.7613494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3240e489245169e70800000000000000
+      internalID: 9121501471052792867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameAsset-Scientist_3
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 344
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dfbfb17f73ea310800000000000000
+      internalID: 1418132467134233919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameAsset-Scientist_4
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 348
+        width: 255
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a534c7416bf5cbc0800000000000000
+      internalID: -3763325518363740762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameAsset-Scientist_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 447
+        height: 322
+      alignment: 9
+      pivot: {x: 0.58567035, y: 0.07432968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08267e9151bb053b0800000000000000
+      internalID: -5525711043480296832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameAsset-Scientist_6
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 376
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb01fce8618f5ca40800000000000000
+      internalID: 5387985304987570366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameAsset-Scientist_7
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 115
+        width: 145
+        height: 123
+      alignment: 9
+      pivot: {x: 0.6540561, y: 0.7464746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4e1646bc3f12300800000000000000
+      internalID: 225729511233283263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameAsset-Scientist_8
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 112
+        width: 144
+        height: 126
+      alignment: 9
+      pivot: {x: 0.64404464, y: 0.76593345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e30fd4804ef25a20800000000000000
+      internalID: 3049779450743817187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameAsset-Scientist_9
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 128
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99d021859aebba20800000000000000
+      internalID: 3079312698075306398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
